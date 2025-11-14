@@ -91,7 +91,7 @@ As batalhas funcionam em turnos.
 
 Cada vitória aumenta o nível do seu Poketito.
 
-Ao atingir **nível 10**, o Poketito **evolui automaticamente**!
+Ao atingir **nível 5**, o Poketito **evolui automaticamente**!
 
 Cada evolução possui:
 - Mais vida  
