@@ -74,7 +74,7 @@ Quando um aparece, você pode:
 
 ## ⚔️ Batalhas
 
-As batalhas funcionam em turnos.
+As batalhas funcionam em turnos e você utiliza apenas seu pokemon na posição número 1.
 
 ### ✔️ Seu turno:
 - Escolha um ataque entre os disponíveis  
@@ -132,7 +132,9 @@ No menu **Ver meu Poketito**, você pode:
 A opção **Centro Poketito** permite:
 
 - Curar completamente o Poketito atual  
-- Restaurar a vida para o valor máximo  
+- Restaurar a vida para o valor máximo
+
+OBS: Se quiser curar outro pokemon utilize o gerenciamento e troque de posição.
 
 Ideal depois de muitas batalhas!
 
