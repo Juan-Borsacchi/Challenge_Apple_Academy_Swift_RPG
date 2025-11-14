@@ -1,4 +1,4 @@
-# Challenge_Apple_Academy_SwiftRPG
+# Challenge_Apple_Academy_Swift_RPG
 Desafio de conclusão do workshop de programação do processo seletivo Apple Academy
 
 # 🌟 Poketitos – Aventura em Swift
